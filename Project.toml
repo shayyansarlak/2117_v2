@@ -3,6 +3,10 @@ uuid = "f13a709c-6a89-428e-a152-1fea8c787e1f"
 authors = ["shayyansarlak <shayyansarlak@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
 [compat]
 julia = "1.6.7"
 
